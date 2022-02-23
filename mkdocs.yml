@@ -1,10 +1,10 @@
 site_name: Wiki
 site_description: VulWiki，漏洞库
 site_author: Morker
-site_url: https://wiki.96.mk/
+site_url: https://wiki.mrlee.top/
 
-repo_name: 'nosafer/nosafer.github.io'
-repo_url: 'https://github.com/nosafer/nosafer.github.io'
+repo_name: 'nosafer/VulWiki'
+repo_url: 'https://github.com/Fxck1024'
 
 theme:
   name: material
@@ -18,9 +18,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/nosafer
+      link: https://github.com/fxck1024
   search:
-    language: 'jp'
+    language: 'cn'
 
 markdown_extensions:
   - admonition
