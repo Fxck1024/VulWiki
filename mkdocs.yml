@@ -20,7 +20,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/fxck1024
   search:
-    language: 'zh'
+    language: 'jp'
 
 markdown_extensions:
   - admonition
