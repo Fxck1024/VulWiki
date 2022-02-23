@@ -3,7 +3,7 @@ site_description: VulWiki，漏洞库
 site_author: Morker
 site_url: https://mrlee.top/vulwiki/
 
-repo_name: 'nosafer/VulWiki'
+repo_name: 'fxck1024/vulwiki'
 repo_url: 'https://github.com/Fxck1024/vulwiki'
 
 theme:
