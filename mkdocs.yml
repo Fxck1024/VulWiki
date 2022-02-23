@@ -1,10 +1,10 @@
 site_name: Wiki
 site_description: VulWiki，漏洞库
 site_author: Morker
-site_url: https://wiki.mrlee.top/
+site_url: https://mrlee.top/vulwiki/
 
 repo_name: 'nosafer/VulWiki'
-repo_url: 'https://github.com/Fxck1024'
+repo_url: 'https://github.com/Fxck1024/vulwiki'
 
 theme:
   name: material
